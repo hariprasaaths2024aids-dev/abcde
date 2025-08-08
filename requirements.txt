@@ -14,3 +14,31 @@ pydantic
 sentence-transformers
 transformers
 langchain-huggingface
+# Core FastAPI & server
+fastapi
+uvicorn
+# Document processing
+PyMuPDF
+python-docx
+docx2txt
+# PDF and file utils
+requests
+python-multipart
+# Embeddings & retrieval
+faiss-cpu
+sentence-transformers
+# LangChain ecosystem
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langchain-groq
+langchain-huggingface
+langchain-text-splitters
+groq
+# Data validation & settings
+pydantic
+pydantic-settings
+# Utilities
+tiktoken
+python-dotenv
